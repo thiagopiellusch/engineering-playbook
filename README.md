@@ -1,4 +1,4 @@
-# Engineering Playbook — Thiago Piellusch Tavares
+# Engineering Playbook 
 
 Este repositório consolida minha visão prática sobre **liderança técnica, arquitetura de engenharia e construção de times de alta performance**, aplicada em ambientes corporativos complexos e de larga escala.
 
